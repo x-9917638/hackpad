@@ -8,6 +8,9 @@ NyankoPad (CatPad) is a 8 key, 1 encoder macropad with an OLED display.
 - 1 Rotary encoder
 - 3 Built in layers
 
+## Full Render
+<img width="1315" height="799" alt="image" src="https://github.com/user-attachments/assets/bdd23777-7710-4e8a-97b3-c9297f55c9d4" />
+
 ## Case
 Everything fits together using 4 M3 Bolts and heatset inserts.
 
