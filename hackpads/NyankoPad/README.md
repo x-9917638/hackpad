@@ -40,6 +40,7 @@ The rotary encoder is used to switch layers.
 ## BOM
 Here should be everything you need to make this hackpad
 
+- 9x Through-hole 1N4148 Diodes
 - 8x Cherry MX Switches
 - 8x DSA Keycaps
 - 1x 0.91in 128x32 OLED display
